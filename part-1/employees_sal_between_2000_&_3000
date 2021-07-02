@@ -1,0 +1,1 @@
+Select ename from Emp1 Where Sal between 2000 and 3000;
