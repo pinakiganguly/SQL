@@ -1,0 +1,2 @@
+Select ename from emp1 where job
+in('CLERK','SALESMAN','ANALYST');
